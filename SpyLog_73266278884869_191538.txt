@@ -1,0 +1,493 @@
+=== GAMESCANNER SPY LOG v8 (475) ===
+Game: Ugc | PlaceId: 73266278884869
+
+[26.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 266) <srv>cli>
+[27.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 37) <srv>cli>
+[27.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 37) <srv>cli>
+[27.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 265) <srv>cli>
+[27.9] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=-22.26547622680664,2=5.027420520782471,3=6.42392635345459,4=-0.061054110527038574,5=0}}) <srv>cli>
+[28.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 38) <srv>cli>
+[28.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 38) <srv>cli>
+[28.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 264) <srv>cli>
+[29.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 39) <srv>cli>
+[29.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 39) <srv>cli>
+[29.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 263) <srv>cli>
+[30.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 40) <srv>cli>
+[30.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 40) <srv>cli>
+[30.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 262) <srv>cli>
+[31.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 41) <srv>cli>
+[31.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 41) <srv>cli>
+[31.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 261) <srv>cli>
+[31.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[32.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[32.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[32.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[32.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[32.4] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 42) <srv>cli>
+[32.4] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 42) <srv>cli>
+[32.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[32.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 260) <srv>cli>
+[32.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[32.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[32.9] CE[ReplicaSet](433, {1="Daily",2="Reward"}, 1) <srv>cli>
+[32.9] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=-6.470195770263672,2=5.1456499099731445,3=0.2867873013019562,4=0.9785763621330261,5=0}}) <srv>cli>
+[33.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[33.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[33.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[33.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[33.4] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 43) <srv>cli>
+[33.4] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 43) <srv>cli>
+[33.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[33.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[33.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 259) <srv>cli>
+[33.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[33.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[34.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[34.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[34.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[34.2] CE[SlimeVisualEvent]({2e1684eb-6543-4d6a-9905-8d1b123727b4={position=[vector],slime="GreenSlime",meta_data={..},crit=false,damage=2}}) <srv>cli>
+[34.2] CE[SlimeUpdateEvent]({2e1684eb-6543-4d6a-9905-8d1b123727b4={health=3}}) <srv>cli>
+[34.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[34.4] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 44) <srv>cli>
+[34.4] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 44) <srv>cli>
+[34.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[34.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[34.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 258) <srv>cli>
+[34.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[34.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[35.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[35.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[35.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[35.4] CE[SlimeVisualEvent]({2e1684eb-6543-4d6a-9905-8d1b123727b4={position=[vector],slime="GreenSlime",meta_data={..},crit=false,damage=2}}) <srv>cli>
+[35.4] CE[SlimeUpdateEvent]({2e1684eb-6543-4d6a-9905-8d1b123727b4={health=1}}) <srv>cli>
+[35.4] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 45) <srv>cli>
+[35.4] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 45) <srv>cli>
+[35.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[35.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[35.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 257) <srv>cli>
+[35.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[35.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[35.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[36.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[36.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[36.4] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 46) <srv>cli>
+[36.4] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 46) <srv>cli>
+[36.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[36.4] CE[ReplicaSet](433, {1="Statistics",2="TotalCoins"}, 5) <srv>cli>
+[36.4] CE[ReplicaSet](433, {1="Mastery",2="COIN_COLLECTOR",3="progress"}, 5) <srv>cli>
+[36.4] CE[ReplicaSet](433, {1="Currency",2="Coins"}, 5) <srv>cli>
+[36.4] CE[ReplicaSet](433, {1="Mastery",2="SLIMES",3="progress"}, 1) <srv>cli>
+[36.4] CE[ReplicaSet](433, {1="Skills",2="Level"}, 0) <srv>cli>
+[36.5] CE[SlimeVisualEvent]({2e1684eb-6543-4d6a-9905-8d1b123727b4={currency={..},position=[vector],crit=false,meta_data={..},slime="GreenSlime"}}) <srv>cli>
+[36.5] CE[SlimeUpdateEvent]({2e1684eb-6543-4d6a-9905-8d1b123727b4={health=0}}) <srv>cli>
+[36.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[36.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 256) <srv>cli>
+[36.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[36.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[36.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[37.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[37.1] CE[SlimeSpawnEvent]({type="Normal",effects={},uid="11f85100-cfa9-4d11-b9c6-b03e72c745d7",health=5,position=[vector]}) <srv>cli>
+[37.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[37.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[37.4] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 47) <srv>cli>
+[37.4] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 47) <srv>cli>
+[37.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[37.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[37.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 255) <srv>cli>
+[37.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[37.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[37.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[38.0] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=0.8721274137496948,2=5.145649433135986,3=-10.282672882080078,4=0.2090887725353241,5=-0}}) <srv>cli>
+[38.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[38.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[38.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[38.5] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 48) <srv>cli>
+[38.5] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 48) <srv>cli>
+[38.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[38.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[38.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 254) <srv>cli>
+[38.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[38.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[39.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[39.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[39.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[39.5] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 49) <srv>cli>
+[39.5] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 49) <srv>cli>
+[39.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[39.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[39.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 253) <srv>cli>
+[39.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[39.8] InvokeServer[PurchaseUpgradeBoard]("DAMAGE_INCREASE", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[39.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[40.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[40.0] CE[ReplicaSet](433, {1="Currency",2="Coins"}, 2) <srv>cli>
+[40.0] CE[ReplicaSet](433, {1="UpgradeBoard",2="DAMAGE_INCREASE"}, 1) <srv>cli>
+[40.0] CE[ReplicaSet](433, {1="Onboarding",2="Step"}, 3) <srv>cli>
+[40.0] CE[ReplicaSet](433, {1="Onboarding",2="Completed"}, true) <srv>cli>
+[40.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[40.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[40.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[40.5] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 50) <srv>cli>
+[40.5] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 50) <srv>cli>
+[40.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[40.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[40.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 252) <srv>cli>
+[40.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[40.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[41.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[41.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[41.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[41.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[41.5] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 51) <srv>cli>
+[41.5] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 51) <srv>cli>
+[41.5] InvokeServer[PurchaseUpgradeBoard]("RANGE_INCREASE_1", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[41.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[41.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[41.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 251) <srv>cli>
+[42.5] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 52) <srv>cli>
+[42.5] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 52) <srv>cli>
+[42.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 250) <srv>cli>
+[43.0] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=30.785137176513672,2=5.0000762939453125,3=-21.827482223510742,4=0.7723365426063538,5=0}}) <srv>cli>
+[43.5] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 53) <srv>cli>
+[43.5] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 53) <srv>cli>
+[43.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 249) <srv>cli>
+[43.8] InvokeServer[PurchaseUpgradeBoard]("COIN_MULTIPLIER", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[43.9] InvokeServer[PurchaseUpgradeBoard]("COIN_MULTIPLIER", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[44.5] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 54) <srv>cli>
+[44.5] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 54) <srv>cli>
+[44.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 248) <srv>cli>
+[44.9] InvokeServer[PurchaseUpgradeBoard]("RANGE_INCREASE_1", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[45.0] InvokeServer[PurchaseUpgradeBoard]("RANGE_INCREASE_1", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[45.5] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 55) <srv>cli>
+[45.5] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 55) <srv>cli>
+[45.8] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 247) <srv>cli>
+[46.6] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 56) <srv>cli>
+[46.6] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 56) <srv>cli>
+[46.8] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 246) <srv>cli>
+[47.1] InvokeServer[PurchaseUpgradeBoard]("SLIME_SPAWN_CAP", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[47.2] InvokeServer[PurchaseUpgradeBoard]("SLIME_SPAWN_CAP", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[47.6] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 57) <srv>cli>
+[47.6] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 57) <srv>cli>
+[47.8] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 245) <srv>cli>
+[48.0] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=30.081165313720703,2=5.0000762939453125,3=3.4574947357177734,4=-0.9989328384399414,5=0}}) <srv>cli>
+[48.4] InvokeServer[PurchaseUpgradeBoard]("SLIME_SPAWN_SPEED", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[48.6] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 58) <srv>cli>
+[48.6] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 58) <srv>cli>
+[48.6] InvokeServer[PurchaseUpgradeBoard]("SLIME_SPAWN_SPEED", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[48.8] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 244) <srv>cli>
+[49.6] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 59) <srv>cli>
+[49.6] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 59) <srv>cli>
+[49.8] InvokeServer[PurchaseUpgradeBoard]("SLIME_LUCK", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[49.8] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 243) <srv>cli>
+[49.9] InvokeServer[PurchaseUpgradeBoard]("SLIME_LUCK", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[50.0] InvokeServer[PurchaseUpgradeBoard]("SLIME_LUCK", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[50.6] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 60) <srv>cli>
+[50.6] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 60) <srv>cli>
+[50.9] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 242) <srv>cli>
+[51.6] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 61) <srv>cli>
+[51.6] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 61) <srv>cli>
+[51.9] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 241) <srv>cli>
+[52.7] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 62) <srv>cli>
+[52.7] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 62) <srv>cli>
+[52.9] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 240) <srv>cli>
+[53.0] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=28.87104606628418,2=5.0000762939453125,3=18.22391128540039,4=-0.6186562776565552,5=0}}) <srv>cli>
+[53.7] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 63) <srv>cli>
+[53.7] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 63) <srv>cli>
+[53.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[53.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[53.9] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 239) <srv>cli>
+[54.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[54.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[54.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[54.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[54.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[54.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[54.7] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 64) <srv>cli>
+[54.7] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 64) <srv>cli>
+[54.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[54.9] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 238) <srv>cli>
+[55.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[55.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[55.1] CE[SlimeVisualEvent]({11f85100-cfa9-4d11-b9c6-b03e72c745d7={position=[vector],slime="GreenSlime",meta_data={..},crit=false,damage=3}}) <srv>cli>
+[55.1] CE[SlimeUpdateEvent]({11f85100-cfa9-4d11-b9c6-b03e72c745d7={health=2}}) <srv>cli>
+[55.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[55.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[55.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[55.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[55.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[55.7] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 65) <srv>cli>
+[55.7] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 65) <srv>cli>
+[55.9] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 237) <srv>cli>
+[55.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[56.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[56.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[56.1] CE[ReplicaSet](433, {1="Statistics",2="TotalCoins"}, 10) <srv>cli>
+[56.1] CE[ReplicaSet](433, {1="Mastery",2="COIN_COLLECTOR",3="progress"}, 10) <srv>cli>
+[56.1] CE[ReplicaSet](433, {1="Currency",2="Coins"}, 7) <srv>cli>
+[56.1] CE[ReplicaSet](433, {1="Mastery",2="SLIMES",3="progress"}, 2) <srv>cli>
+[56.1] CE[ReplicaSet](433, {1="Skills",2="Level"}, 0) <srv>cli>
+[56.1] CE[ReplicaSet](433, {1="Skills",2="XP"}, 2) <srv>cli>
+[56.1] CE[ReplicaSet](433, {1="Index",2="Slimes",3="GreenSlime",4="Normal"}, 2) <srv>cli>
+[56.1] CE[SlimeVisualEvent]({11f85100-cfa9-4d11-b9c6-b03e72c745d7={currency={..},position=[vector],crit=false,meta_data={..},slime="GreenSlime"}}) <srv>cli>
+[56.1] CE[SlimeUpdateEvent]({11f85100-cfa9-4d11-b9c6-b03e72c745d7={health=0}}) <srv>cli>
+[56.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[56.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[56.4] CE[SlimeSpawnEvent]({type="Normal",effects={},uid="cbfc0280-3235-4067-bf1d-d2c81d41dc14",health=5,position=[vector]}) <srv>cli>
+[56.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[56.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[56.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[56.9] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 236) <srv>cli>
+[57.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[57.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[57.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[57.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[57.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[57.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[57.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[57.7] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 67) <srv>cli>
+[57.7] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 67) <srv>cli>
+[57.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[58.0] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 235) <srv>cli>
+[58.0] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=13.58344841003418,2=5.1456499099731445,3=13.837218284606934,4=-0.9917888641357422,5=0}}) <srv>cli>
+[58.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[58.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[58.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[58.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[58.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[58.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[58.7] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 68) <srv>cli>
+[58.7] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 68) <srv>cli>
+[58.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[58.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[58.9] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 234) <srv>cli>
+[59.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[59.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[59.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[59.4] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[59.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[59.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[59.7] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 69) <srv>cli>
+[59.7] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 69) <srv>cli>
+[59.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[59.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[60.0] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 233) <srv>cli>
+[60.8] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 70) <srv>cli>
+[60.8] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 70) <srv>cli>
+[61.0] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 232) <srv>cli>
+[61.3] InvokeServer[ClaimLuckyBlock]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>LuckyBlockController:69>
+[61.8] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 71) <srv>cli>
+[61.8] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 71) <srv>cli>
+[62.0] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 231) <srv>cli>
+[62.8] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 72) <srv>cli>
+[62.8] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 72) <srv>cli>
+[63.0] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 230) <srv>cli>
+[63.1] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=19.83986473083496,2=6.000091552734375,3=43.86623001098633,4=-0.6002597212791443,5=0}}) <srv>cli>
+[63.5] CE[Notify]({Message="Not enough Coins",Type="Error"}) <srv>cli>
+[63.8] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 73) <srv>cli>
+[63.8] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 73) <srv>cli>
+[64.0] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 229) <srv>cli>
+[64.6] CE[Notify]({Message="Not enough Coins",Type="Error"}) <srv>cli>
+[64.8] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 74) <srv>cli>
+[64.8] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 74) <srv>cli>
+[65.0] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 228) <srv>cli>
+[65.8] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 75) <srv>cli>
+[65.8] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 75) <srv>cli>
+[66.1] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 227) <srv>cli>
+[66.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[66.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[66.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[66.8] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 76) <srv>cli>
+[66.8] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 76) <srv>cli>
+[66.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[67.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[67.1] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 226) <srv>cli>
+[67.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[67.2] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[67.3] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[67.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[67.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[67.8] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 77) <srv>cli>
+[67.8] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 77) <srv>cli>
+[67.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[68.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[68.1] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=28.085994720458984,2=5.0000762939453125,3=10.0035982131958,4=0.9903846383094788,5=0}}) <srv>cli>
+[68.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[68.1] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 225) <srv>cli>
+[68.8] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 78) <srv>cli>
+[68.8] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 78) <srv>cli>
+[69.1] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 224) <srv>cli>
+[69.9] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 79) <srv>cli>
+[69.9] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 79) <srv>cli>
+[70.1] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 223) <srv>cli>
+[70.5] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[70.6] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[70.7] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[70.8] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[70.9] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 80) <srv>cli>
+[70.9] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 80) <srv>cli>
+[70.9] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[71.0] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[71.1] FireServer[SlimeAttackEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>SlimeSpawnerController:431>
+[71.2] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 222) <srv>cli>
+[71.9] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 81) <srv>cli>
+[71.9] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 81) <srv>cli>
+[72.1] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 221) <srv>cli>
+[72.6] InvokeServer[SkillServiceUnlock]("Lightning") <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>Skills:173>
+[72.9] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 82) <srv>cli>
+[72.9] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 82) <srv>cli>
+[73.1] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=21.062822341918945,2=5.0000762939453125,3=-38.91563415527344,4=0.9647019505500793,5=0}}) <srv>cli>
+[73.2] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 220) <srv>cli>
+[73.3] InvokeServer[SkillServiceUnlock]("Lightning") <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>Skills:173>
+[73.9] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 83) <srv>cli>
+[73.9] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 83) <srv>cli>
+[74.2] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 219) <srv>cli>
+[74.9] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 84) <srv>cli>
+[74.9] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 84) <srv>cli>
+[75.2] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 218) <srv>cli>
+[76.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 85) <srv>cli>
+[76.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 85) <srv>cli>
+[76.2] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 217) <srv>cli>
+[77.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 86) <srv>cli>
+[77.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 86) <srv>cli>
+[77.2] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 216) <srv>cli>
+[78.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 87) <srv>cli>
+[78.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 87) <srv>cli>
+[78.1] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=21.062822341918945,2=5.0000762939453125,3=-38.91563415527344,4=0.9647019505500793,5=0}}) <srv>cli>
+[78.2] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 215) <srv>cli>
+[79.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 88) <srv>cli>
+[79.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 88) <srv>cli>
+[79.2] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 214) <srv>cli>
+[80.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 89) <srv>cli>
+[80.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 89) <srv>cli>
+[80.3] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 213) <srv>cli>
+[80.5] InvokeServer[PurchaseUpgradeBoard]("DAMAGE_MULTIPLIER", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[81.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 90) <srv>cli>
+[81.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 90) <srv>cli>
+[81.3] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 212) <srv>cli>
+[81.7] InvokeServer[PurchaseUpgradeBoard]("REBIRTH_MULTIPLIER", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[82.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 91) <srv>cli>
+[82.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 91) <srv>cli>
+[82.3] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 211) <srv>cli>
+[82.9] InvokeServer[PurchaseUpgradeBoard]("COIN_MULTIPLIER_2", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[83.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 92) <srv>cli>
+[83.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 92) <srv>cli>
+[83.1] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=3.555718421936035,2=5.0000762939453125,3=-50.99882507324219,4=0.8539037108421326,5=0}}) <srv>cli>
+[83.3] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 210) <srv>cli>
+[83.8] InvokeServer[PurchaseUpgradeBoard]("DAMAGE_MULTIPLIER", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[84.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 93) <srv>cli>
+[84.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 93) <srv>cli>
+[84.3] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 209) <srv>cli>
+[84.4] InvokeServer[PurchaseUpgradeBoard]("REBIRTH_MULTIPLIER", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[85.0] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 94) <srv>cli>
+[85.0] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 94) <srv>cli>
+[85.2] InvokeServer[PurchaseUpgradeBoard]("COIN_MULTIPLIER_2", true) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>UpgradeBoardVisualController:143>
+[85.3] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 208) <srv>cli>
+[86.1] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 95) <srv>cli>
+[86.1] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 95) <srv>cli>
+[86.4] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 207) <srv>cli>
+[87.1] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 96) <srv>cli>
+[87.1] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 96) <srv>cli>
+[87.2] FireServer[RebirthEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>RebirthController:139>
+[87.3] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 206) <srv>cli>
+[87.5] CE[Notify]({Message="You don't have enough to rebirth!",Type="Error"}) <srv>cli>
+[88.1] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 97) <srv>cli>
+[88.1] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 97) <srv>cli>
+[88.1] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=-15.78344440460205,2=5.0000762939453125,3=-52.44709014892578,4=0.1474522352218628,5=0}}) <srv>cli>
+[88.4] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 205) <srv>cli>
+[89.0] FireServer[RebirthEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>RebirthController:139>
+[89.1] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 98) <srv>cli>
+[89.1] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 98) <srv>cli>
+[89.2] FireServer[RebirthEvent]() <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:100>RebirthController:139>
+[89.3] CE[Notify]({Message="You don't have enough to rebirth!",Type="Error"}) <srv>cli>
+[89.4] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 204) <srv>cli>
+[89.4] CE[Notify]({Message="You don't have enough to rebirth!",Type="Error"}) <srv>cli>
+[90.1] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 99) <srv>cli>
+[90.1] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 99) <srv>cli>
+[90.4] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 203) <srv>cli>
+[91.1] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 100) <srv>cli>
+[91.1] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 100) <srv>cli>
+[91.4] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 202) <srv>cli>
+[92.1] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 101) <srv>cli>
+[92.1] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 101) <srv>cli>
+[92.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 201) <srv>cli>
+[92.9] CE[ReplicaSet](433, {1="Daily",2="Reward"}, 1) <srv>cli>
+[93.2] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=-51.86753845214844,2=6.995748043060303,3=-22.033767700195312,4=-0.7706311941146851,5=0}}) <srv>cli>
+[93.2] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 102) <srv>cli>
+[93.2] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 102) <srv>cli>
+[93.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 200) <srv>cli>
+[94.2] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 103) <srv>cli>
+[94.2] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 103) <srv>cli>
+[94.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 199) <srv>cli>
+[95.2] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 104) <srv>cli>
+[95.2] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 104) <srv>cli>
+[95.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 198) <srv>cli>
+[96.2] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 105) <srv>cli>
+[96.2] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 105) <srv>cli>
+[96.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 197) <srv>cli>
+[97.2] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 106) <srv>cli>
+[97.2] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 106) <srv>cli>
+[97.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 196) <srv>cli>
+[98.2] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=-64.93458557128906,2=15.000228881835938,3=-20.705394744873047,4=0.13648343086242676,5=0}}) <srv>cli>
+[98.2] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 107) <srv>cli>
+[98.2] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 107) <srv>cli>
+[98.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 195) <srv>cli>
+[99.2] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 108) <srv>cli>
+[99.2] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 108) <srv>cli>
+[99.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 194) <srv>cli>
+[100.2] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 109) <srv>cli>
+[100.2] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 109) <srv>cli>
+[100.5] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 193) <srv>cli>
+[100.7] InvokeServer[DailyClaimEvent](1) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>Daily:123>
+[100.9] CE[ReplicaTableInsert](433, {1="Daily",2="Claimed"}, 1) <srv>cli>
+[100.9] CE[ReplicaSet](433, {1="Daily",2="LastClaimed"}, 1773965704.489194) <srv>cli>
+[100.9] CE[ReplicaSet](433, {1="Statistics",2="TotalTokens"}, 20) <srv>cli>
+[100.9] CE[ReplicaSet](433, {1="Currency",2="Tokens"}, 20) <srv>cli>
+[101.2] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 110) <srv>cli>
+[101.2] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 110) <srv>cli>
+[101.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 192) <srv>cli>
+[102.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 111) <srv>cli>
+[102.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 111) <srv>cli>
+[102.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 191) <srv>cli>
+[103.2] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=-64.93458557128906,2=16.74844741821289,3=-20.705394744873047,4=0.13648343086242676,5=0}}) <srv>cli>
+[103.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 112) <srv>cli>
+[103.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 112) <srv>cli>
+[103.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 190) <srv>cli>
+[104.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 113) <srv>cli>
+[104.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 113) <srv>cli>
+[104.3] InvokeServer[DailyClaimEvent](1) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>Daily:123>
+[104.4] InvokeServer[DailyClaimEvent](1) <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>Daily:123>
+[104.6] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 189) <srv>cli>
+[105.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 114) <srv>cli>
+[105.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 114) <srv>cli>
+[105.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 188) <srv>cli>
+[106.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 115) <srv>cli>
+[106.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 115) <srv>cli>
+[106.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 187) <srv>cli>
+[107.1] InvokeServer[WorldServicePurchase]("LAVA_WORLD") <OPZAqqzCpaNZDZFFO:112>OPZAqqzCpaNZDZFFO:188>[C]:-1>Network:151>WorldController:137>WorldController:103>
+[107.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 116) <srv>cli>
+[107.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 116) <srv>cli>
+[107.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 186) <srv>cli>
+[108.2] CE[ReplicaSet](433, {1="__auto_rejoin__"}, {CFrame={1=-70.09547424316406,2=17.000259399414062,3=-16.91813850402832,4=-0.9990741014480591,5=0}}) <srv>cli>
+[108.3] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 117) <srv>cli>
+[108.3] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 117) <srv>cli>
+[108.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 185) <srv>cli>
+[109.4] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 118) <srv>cli>
+[109.4] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 118) <srv>cli>
+[109.7] CE[ReplicaSet](433, {1="LuckyBlock",2="Timer"}, 184) <srv>cli>
+[110.4] CE[ReplicaSet](433, {1="Statistics",2="Playtime"}, 119) <srv>cli>
+[110.4] CE[ReplicaSet](433, {1="Mastery",2="PLAYTIME",3="progress"}, 119) <srv>cli>
+
+=== ARG MAP ===
+SlimeVisualEvent: ({2e1684eb-6543-4d6a-9905-8d1b123727b4={position=[vector],slime="GreenSlime",meta_data={..},crit=false,damage=2}}) | ({2e1684eb-6543-4d6a-9905-8d1b123727b4={currency={..},position=[vector],crit=false,meta_data={..},slime="GreenSlime"}}) | ({11f85100-cfa9-4d11-b9c6-b03e72c745d7={position=[vector],slime="GreenSlime",meta_data={..},crit=false,damage=3}}) | ({11f85100-cfa9-4d11-b9c6-b03e72c745d7={currency={..},position=[vector],crit=false,meta_data={..},slime="GreenSlime"}})
+SlimeSpawnEvent: ({type="Normal",effects={},uid="11f85100-cfa9-4d11-b9c6-b03e72c745d7",health=5,position=[vector]}) | ({type="Normal",effects={},uid="cbfc0280-3235-4067-bf1d-d2c81d41dc14",health=5,position=[vector]})
+WorldServicePurchase: ("LAVA_WORLD")
+ReplicaSet: (433, {1="LuckyBlock",2="Timer"}, 266) | (433, {1="Statistics",2="Playtime"}, 37) | (433, {1="Mastery",2="PLAYTIME",3="progress"}, 37) | (433, {1="LuckyBlock",2="Timer"}, 265) | (433, {1="__auto_rejoin__"}, {CFrame={1=-22.26547622680664,2=5.027420520782471,3=6.42392635345459,4=-0.061054110527038574,5=0}}) | (433, {1="Statistics",2="Playtime"}, 38) | (433, {1="Mastery",2="PLAYTIME",3="progress"}, 38) | (433, {1="LuckyBlock",2="Timer"}, 264)
+SlimeUpdateEvent: ({2e1684eb-6543-4d6a-9905-8d1b123727b4={health=3}}) | ({2e1684eb-6543-4d6a-9905-8d1b123727b4={health=1}}) | ({2e1684eb-6543-4d6a-9905-8d1b123727b4={health=0}}) | ({11f85100-cfa9-4d11-b9c6-b03e72c745d7={health=2}}) | ({11f85100-cfa9-4d11-b9c6-b03e72c745d7={health=0}})
+RebirthEvent: ()
+PurchaseUpgradeBoard: ("DAMAGE_INCREASE", true) | ("RANGE_INCREASE_1", true) | ("COIN_MULTIPLIER", true) | ("SLIME_SPAWN_CAP", true) | ("SLIME_SPAWN_SPEED", true) | ("SLIME_LUCK", true) | ("DAMAGE_MULTIPLIER", true) | ("REBIRTH_MULTIPLIER", true)
+ClaimLuckyBlock: ()
+SlimeAttackEvent: ()
+Notify: ({Message="Not enough Coins",Type="Error"}) | ({Message="You don't have enough to rebirth!",Type="Error"})
+SkillServiceUnlock: ("Lightning")
+DailyClaimEvent: (1)
+ReplicaTableInsert: (433, {1="Daily",2="Claimed"}, 1)
